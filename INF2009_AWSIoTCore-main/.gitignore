@@ -1,0 +1,2 @@
+aws_iot_core/*.key
+aws_iot_core/*.crt
